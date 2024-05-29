@@ -16,7 +16,7 @@ Check out my resume [here](Resume.pdf).
 - **M.A.**,  Computational and Applied Mathematics, Rice University, Expected August 2024 
 - **B.S.**,  Mathematics with a minor in Computer Science, Lebanese American University, May 2022 
 
-### Teaching 
+## Teaching 
 - **Iterative Methods and Unconstrained Optimization (Qualifying Exam Course)**, Grader, Rice University, Spring 2024
 - **Advanced Numerical Analysis (Qualifying Exam Course)**, Grader, Rice University, Fall 2023
 - **Differential Equations**, Grader, Rice University, Spring 2023
@@ -25,7 +25,7 @@ Check out my resume [here](Resume.pdf).
 - **AI Hackathon**, Trainer, Geek Express, Summer 2022
 - **Programming**, Instructor, Geek Express, September 2019 - Summer 2022
 
-### Leadership and Service
+## Leadership and Service
 - **Treasurer**, [Rice SIAM Chapter](https://www.cmor-faculty.rice.edu/~siamchapter/).
 - **International Student Outreach Director**, Rice Office of International Students and Scholars. Featured in [Fall 2023 Newsletter page 12](https://repository.rice.edu/server/api/core/bitstreams/8c916a3b-e39c-49c1-bd51-2fcff8bdf743/content).
 - **Graduate Panelist**, [Rice University GCURS](https://gcurs.rice.edu/).  
