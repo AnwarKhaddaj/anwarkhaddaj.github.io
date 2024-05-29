@@ -8,10 +8,27 @@
     <span style="font-size: 15px">👨‍💼</span> I am also interested in entrepreneurship. In fact, I cofounded a startup in 2023, and made it to national TV in Lebanon. Check out my interview <a href="https://www.youtube.com/watch?v=7nYVsNGiFgs" target="_blank">here</a> at minute 12:20. <br/><br/> 
     </p>
 </body>
+Check out my resume [here](Resume.pdf).
 
-Check out my resume here.
+#### Contact: [Email](mailto:anwar.khaddage@gmail.com) | [Linkedin](https://www.linkedin.com/in/anwarkhaddaj/)
+
 ## Education 
 - **M.A.**,  Computational and Applied Mathematics, Rice University, Expected August 2024 
 - **B.S.**,  Mathematics with a minor in Computer Science, Lebanese American University, May 2022 
+
+### Teaching 
+- **Iterative Methods and Unconstrained Optimization (Qualifying Exam Course)**, Grader, Rice University, Spring 2024
+- **Advanced Numerical Analysis (Qualifying Exam Course)**, Grader, Rice University, Fall 2023
+- **Differential Equations**, Grader, Rice University, Spring 2023
+- **Matrix Analysis**, Grader, Rice University, Fall 2022
+- **CalculusII**, Teaching Assistant, Lebanese American University, Spring 2022
+- **AI Hackathon**, Trainer, Geek Express, Summer 2022
+- **Programming**, Instructor, Geek Express, September 2019 - Summer 2022
+
+### Leadership and Service
+- **Treasurer**, [Rice SIAM Chapter](https://www.cmor-faculty.rice.edu/~siamchapter/).
+- **International Student Outreach Director**, Rice Office of International Students and Scholars. Featured in [Fall 2023 Newsletter page 12](https://repository.rice.edu/server/api/core/bitstreams/8c916a3b-e39c-49c1-bd51-2fcff8bdf743/content).
+- **Graduate Panelist**, [Rice University GCURS](https://gcurs.rice.edu/).  
+- **CMOR Diversity Lunch Organizer**, [CMOR Grad Seminar](https://events.rice.edu/event/347592-cmor-grad-seminar-cmor-diversity-lunch).
 
 
