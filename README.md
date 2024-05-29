@@ -13,7 +13,12 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 
 ## Education 
 - **M.A.**,  Computational and Applied Mathematics, Rice University, Expected August 2024 
-- **B.S.**,  Mathematics with a minor in Computer Science, Lebanese American University, May 2022 
+- **B.S.**,  Mathematics with a minor in Computer Science, Lebanese American University, May 2022
+ 
+## Research Interests
+- **Parameter Estimation** 
+- **Dynamical Systems**
+- **Numerical Analysis**
 
 ## Teaching 
 - **Iterative Methods and Unconstrained Optimization (Qualifying Exam Course)**, Grader, Rice University, Spring 2024
