@@ -9,7 +9,7 @@
 </body>
 
 #### Contact: [Email](mailto:anwar.khaddage@gmail.com) | [Linkedin](https://www.linkedin.com/in/anwarkhaddaj/)
-Check out my resume [here](ANWAR KHADDAJ RESUME.pdf).
+Check out my resume [here](AnwarKhaddajResume.pdf).
 
 ## Education 
 - **M.A.**,  Computational and Applied Mathematics, Rice University, Expected August 2024 
