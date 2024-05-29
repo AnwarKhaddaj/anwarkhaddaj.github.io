@@ -9,11 +9,9 @@
     </p>
 </body>
 
+Check out my resume here.
 ## Education 
 - **M.A.**,  Computational and Applied Mathematics, Rice University, Expected August 2024 
 - **B.S.**,  Mathematics with a minor in Computer Science, Lebanese American University, May 2022 
 
-## Research Interests 
--  **Parameter Estimation**    
--  **Dynamical Systems**
 
