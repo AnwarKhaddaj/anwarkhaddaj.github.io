@@ -38,4 +38,8 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 - **Graduate Panelist**, [Rice University GCURS](https://gcurs.rice.edu/).  
 - **CMOR Diversity Lunch Organizer**, [CMOR Grad Seminar](https://events.rice.edu/event/347592-cmor-grad-seminar-cmor-diversity-lunch).
 
+## Projects
+- **Reduced Order Modeling of Heat Equation with Diffusion and Advection**, [Data Science and Dynamical Systems Final Project](https://github.com/AnwarKhaddaj/ROM-of-Heat-Equation).
+- **Reduced Order Modeling of Heat Equation with Diffusion and Advection**
+
 
