@@ -24,15 +24,6 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 - **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [SIAM TX-LA 2023 Conference](https://userweb.ucs.louisiana.edu/~C00424602/SIAMTXLA2023/minisymposia.html), Nov 3-5,2023.
 - **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [RTG NASC Annual Workshop](https://drive.google.com/file/d/1kb-_YnmzEHVHXzucAvJq6HyDOL_5TAVg/view), Oct 13, 2023.
   
-## Teaching 
-- **Iterative Methods and Unconstrained Optimization (Qualifying Exam Course)**, Grader, Rice University, Spring 2024
-- **Advanced Numerical Analysis (Qualifying Exam Course)**, Grader, Rice University, Fall 2023
-- **Differential Equations**, Grader, Rice University, Spring 2023
-- **Matrix Analysis**, Grader, Rice University, Fall 2022
-- **Calculus II**, Teaching Assistant, Lebanese American University, Spring 2022
-- **AI Hackathon**, Trainer, Geek Express, Summer 2022
-- **Programming**, Instructor, Geek Express, September 2019 - Summer 2022
-
 ## Projects
 - **Reduced Order Modeling of Heat Equation with Diffusion and Advection**, [Data Science and Dynamical Systems Final Project](https://github.com/AnwarKhaddaj/ROM-of-Heat-Equation)
   - Derived transfer functions and investigated different approximations of the impulse response of heat equations with diffusion and advection.
@@ -47,7 +38,7 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 - **Programming Languages**: Python, MATLAB, Java, C++ (OpenMP, MPI, CUDA), Julia, SQL, HTML, PHP.
 - **Python Libraries**: NumPy, SciPy, Matplotlib, Pandas, JAX, Scikit-learn, TensorFlow, Keras.
 - **Software**: Git, Pyomo, IPOPT, Bash, LaTeX
-  
+
 ## Honors and Awards 
 - **Recognition Award**, School of Arts and Sciences, Lebanese American University, May 2022
 - **Hackathon Winner**, Fouad Makhzoumi Innovation Center, Feb 2022
@@ -57,7 +48,16 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 - **Hero Mathematics Tutor**, MMKN Organization, May 2021
 - **Full Merit Scholarship**, Lebanese American University, August 2019
 - **Top 16 National Exams**, Lebanese Baccalaureate General Sciences National Exams, July 2019
-  
+
+## Teaching 
+- **Iterative Methods and Unconstrained Optimization (Qualifying Exam Course)**, Grader, Rice University, Spring 2024
+- **Advanced Numerical Analysis (Qualifying Exam Course)**, Grader, Rice University, Fall 2023
+- **Differential Equations**, Grader, Rice University, Spring 2023
+- **Matrix Analysis**, Grader, Rice University, Fall 2022
+- **Calculus II**, Teaching Assistant, Lebanese American University, Spring 2022
+- **AI Hackathon**, Trainer, Geek Express, Summer 2022
+- **Programming**, Instructor, Geek Express, September 2019 - Summer 2022
+
 ## Leadership and Service
 - **Treasurer**, [Rice SIAM Chapter](https://www.cmor-faculty.rice.edu/~siamchapter/).
 - **Speaking Coach**, TEDxRice. Read more about the event I helped organize [here](https://www.ricethresher.org/article/2022/11/tedxriceu-conference-addresses-climate-change).
