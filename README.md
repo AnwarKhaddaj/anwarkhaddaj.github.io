@@ -20,6 +20,10 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 - **Dynamical Systems**
 - **Numerical Analysis**
 
+## Research Talks and Presentations
+- **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [SIAM TX-LA 2023 Conference](https://userweb.ucs.louisiana.edu/~C00424602/SIAMTXLA2023/minisymposia.html), Nov 3-5,2023.
+- **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [RTG NASC Annual Workshop](https://drive.google.com/file/d/1kb-_YnmzEHVHXzucAvJq6HyDOL_5TAVg/view), Oct 13, 2023.
+  
 ## Teaching 
 - **Iterative Methods and Unconstrained Optimization (Qualifying Exam Course)**, Grader, Rice University, Spring 2024
 - **Advanced Numerical Analysis (Qualifying Exam Course)**, Grader, Rice University, Fall 2023
@@ -29,6 +33,15 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 - **AI Hackathon**, Trainer, Geek Express, Summer 2022
 - **Programming**, Instructor, Geek Express, September 2019 - Summer 2022
 
+## Honors and Awards 
+- **Recognition Award**, School of Arts and Sciences, Lebanese American University, May 2022
+- **Hackathon Winner**, Fouad Makhzoumi Innovation Center, Feb 2022
+- **Top 2 Young Leader**, Young Leaders Program, Saradar Bank and ESA Business School, Sept 2022
+- **Certified Microsoft Innovative Educator**, Microsoft Education Center, August 2021
+- **Hero Mathematics Tutor**, MMKN Organization, May 2021
+- **Full Merit Scholarship**, Lebanese American University, August 2019
+- **Top 16 National Exams**, Lebanese Baccalaureate General Sciences National Exams, July 2019
+  
 ## Leadership and Service
 - **Treasurer**, [Rice SIAM Chapter](https://www.cmor-faculty.rice.edu/~siamchapter/).
 - **Speaking Coach**, [TEDxRice]. Read more about the event I helped organize [here](https://www.ricethresher.org/article/2022/11/tedxriceu-conference-addresses-climate-change).
@@ -39,10 +52,10 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 - **CMOR Diversity Lunch Organizer**, [CMOR Grad Seminar](https://events.rice.edu/event/347592-cmor-grad-seminar-cmor-diversity-lunch).
 
 ## Projects
-- **Reduced Order Modeling of Heat Equation with Diffusion and Advection**, [Data Science and Dynamical Systems Final Project](https://github.com/AnwarKhaddaj/ROM-of-Heat-Equation):
+- **Reduced Order Modeling of Heat Equation with Diffusion and Advection**, [Data Science and Dynamical Systems Final Project](https://github.com/AnwarKhaddaj/ROM-of-Heat-Equation)
   - Derived transfer functions and investigated different approximations of the impulse response of heat equations with diffusion and advection.
   - Applied model order reduction techniques such as Lyapunov balanced truncations, Loewner and Hankel frameworks using MATLAB of the infinite-dimensional and discretized heat equations and       compared their Bode error plots.
-- **Vaccination Center Website**, [Database Management Systems Final Project](https://github.com/AnwarKhaddaj/DatabaseProject):
+- **Vaccination Center Website**, [Database Management Systems Final Project](https://github.com/AnwarKhaddaj/DatabaseProject)
   - Developed a website using PHP, enabling patient registration for vaccinations and enhancing the efficiency of vaccination
     operations through the integration of robust functionalities and user-friendly interfaces.
   - Implemented a database system with an entity relationship (ER) diagram using MySQL, optimizing data management for all
