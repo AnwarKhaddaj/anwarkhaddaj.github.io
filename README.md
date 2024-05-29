@@ -43,8 +43,8 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
   - Derived transfer functions and investigated different approximations of the impulse response of heat equations with diffusion and advection.
   - Applied model order reduction techniques such as Lyapunov balanced truncations, Loewner and Hankel frameworks using MATLAB of the infinite-dimensional and discretized heat equations and       compared their Bode error plots.
 - **Vaccination Center Website**, [Database Management Systems Final Project](https://github.com/AnwarKhaddaj/DatabaseProject):
-  -Developed a website using PHP, enabling patient registration for vaccinations and enhancing the efficiency of vaccination
+  - Developed a website using PHP, enabling patient registration for vaccinations and enhancing the efficiency of vaccination
     operations through the integration of robust functionalities and user-friendly interfaces.
-  -Implemented a database system with an entity relationship (ER) diagram using MySQL, optimizing data management for all
+  - Implemented a database system with an entity relationship (ER) diagram using MySQL, optimizing data management for all
     entities at the vaccination center.
 
