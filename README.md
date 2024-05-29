@@ -10,7 +10,10 @@
 </body>
 
 ## Education 
-- **M.A.**,  Computational and Applied Mathematics, Rice University, May 2019 
-- **B.S.**,  Mathematics, Lebanese American University, May 2017 
+- **M.A.**,  Computational and Applied Mathematics, Rice University, Expected August 2024 
+- **B.S.**,  Mathematics with a minor in Computer Science, Lebanese American University, May 2022 
 
+## Research Interests 
+-  **Parameter Estimation**    
+-  **Dynamical Systems**
 
