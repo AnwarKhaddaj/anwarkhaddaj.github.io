@@ -47,6 +47,7 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 - **Recognition Award**, School of Arts and Sciences, Lebanese American University, May 2022
 - **Hackathon Winner**, Fouad Makhzoumi Innovation Center, Feb 2022
 - **Top 2 Young Leader**, Young Leaders Program, Saradar Bank and ESA Business School, Sept 2022
+- **Jury's Choice Award**, TAQA Youth Well-being Championship, Injaz and UNICEF Lebanon, Nov 2021
 - **Certified Microsoft Innovative Educator**, Microsoft Education Center, August 2021
 - **Hero Mathematics Tutor**, MMKN Organization, May 2021
 - **Full Merit Scholarship**, Lebanese American University, August 2019
