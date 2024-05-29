@@ -8,7 +8,7 @@
     <span style="font-size: 15px">👨‍💼</span> I am also interested in entrepreneurship. In fact, I cofounded a startup in 2023, and made it to national TV in Lebanon. Check out my interview <a href="https://www.youtube.com/watch?v=7nYVsNGiFgs" target="_blank">here</a> at minute 12:20. <br/><br/> </p>
 </body>
 
-#### Contact: [Email](mailto:anwar.khaddage@gmail.com) | [Linkedin](https://www.linkedin.com/in/anwarkhaddaj/)
+## Contact: [Email](mailto:anwar.khaddage@gmail.com) | [Linkedin](https://www.linkedin.com/in/anwarkhaddaj/)
 Check out my resume [here](AnwarKhaddajResume.pdf).
 
 ## Education 
