@@ -44,7 +44,7 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
   
 ## Leadership and Service
 - **Treasurer**, [Rice SIAM Chapter](https://www.cmor-faculty.rice.edu/~siamchapter/).
-- **Speaking Coach**, [TEDxRice]. Read more about the event I helped organize [here](https://www.ricethresher.org/article/2022/11/tedxriceu-conference-addresses-climate-change).
+- **Speaking Coach**, TEDxRice. Read more about the event I helped organize [here](https://www.ricethresher.org/article/2022/11/tedxriceu-conference-addresses-climate-change).
 - **International Buddy Program Leader**, Rice Office of International Students and Scholars. I got featured in [Fall 2023 Newsletter page 12](https://repository.rice.edu/server/api/core/bitstreams/8c916a3b-e39c-49c1-bd51-2fcff8bdf743/content).
 - **Professional Leadership Experience Coachee**, [Doerr Institute for New Leaders at Rice University](https://doerr.rice.edu/).
 - **International Student Outreach Director**, [Rice Graduate Student Association](https://gsa.rice.edu/). 
