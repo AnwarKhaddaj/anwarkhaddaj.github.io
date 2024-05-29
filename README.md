@@ -39,7 +39,12 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 - **CMOR Diversity Lunch Organizer**, [CMOR Grad Seminar](https://events.rice.edu/event/347592-cmor-grad-seminar-cmor-diversity-lunch).
 
 ## Projects
-- **Reduced Order Modeling of Heat Equation with Diffusion and Advection**, [Data Science and Dynamical Systems Final Project](https://github.com/AnwarKhaddaj/ROM-of-Heat-Equation).
-- **Reduced Order Modeling of Heat Equation with Diffusion and Advection**
-
+- **Reduced Order Modeling of Heat Equation with Diffusion and Advection**, [Data Science and Dynamical Systems Final Project](https://github.com/AnwarKhaddaj/ROM-of-Heat-Equation):
+  - Derived transfer functions and investigated different approximations of the impulse response of heat equations with diffusion and advection.
+  - Applied model order reduction techniques such as Lyapunov balanced truncations, Loewner and Hankel frameworks using MATLAB of the infinite-dimensional and discretized heat equations and       compared their Bode error plots.
+- **Vaccination Center Website**, [Database Management Systems Final Project](https://github.com/AnwarKhaddaj/DatabaseProject):
+  -Developed a website using PHP, enabling patient registration for vaccinations and enhancing the efficiency of vaccination
+    operations through the integration of robust functionalities and user-friendly interfaces.
+  -Implemented a database system with an entity relationship (ER) diagram using MySQL, optimizing data management for all
+    entities at the vaccination center.
 
