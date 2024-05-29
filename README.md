@@ -21,7 +21,7 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 - **Numerical Analysis**
 
 ## Research Talks and Presentations
-- **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [SIAM TX-LA 2023 Conference](https://userweb.ucs.louisiana.edu/~C00424602/SIAMTXLA2023/minisymposia.html), Nov 3-5,2023.
+- **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [SIAM TX-LA 2023 Conference](https://userweb.ucs.louisiana.edu/~C00424602/SIAMTXLA2023/minisymposia.html), Nov 3-5, 2023.
 - **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [RTG NASC Annual Workshop](https://drive.google.com/file/d/1kb-_YnmzEHVHXzucAvJq6HyDOL_5TAVg/view), Oct 13, 2023.
   
 ## Projects
