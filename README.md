@@ -37,7 +37,7 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 ## Technical Skills
 - **Programming Languages**: Python, MATLAB, Java, C++ (OpenMP, MPI, CUDA), Julia, SQL, HTML, PHP.
 - **Python Libraries**: NumPy, SciPy, Matplotlib, Pandas, JAX, Scikit-learn, TensorFlow, Keras.
-- **Software**: Git, Pyomo, IPOPT, Bash, LaTeX
+- **Software**: Git, Pyomo, IPOPT, Bash, LaTeX.
 
 ## Honors and Awards 
 - **Recognition Award**, School of Arts and Sciences, Lebanese American University, May 2022
