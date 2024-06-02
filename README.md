@@ -57,7 +57,8 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 - **Matrix Analysis**, Grader, Rice University, Fall 2022
 - **Calculus II**, Teaching Assistant, Lebanese American University, Spring 2022
 - **AI Hackathon**, Trainer, Geek Express, Summer 2022
-- **Programming**, Instructor, Geek Express, September 2019 - Summer 2022
+- **Programming**, Instructor, Geek Express, September 2019 - July 2022
+- **High School Mathematics**, Coordinator and Tutor, MMKN Organization, September 2019 - June 2021
 
 ## Leadership and Service
 - **Treasurer**, [Rice SIAM Chapter](https://www.cmor-faculty.rice.edu/~siamchapter/).
