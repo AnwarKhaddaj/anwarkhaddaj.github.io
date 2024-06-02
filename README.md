@@ -21,6 +21,7 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 - **Numerical Analysis**
 
 ## Research Talks and Presentations
+- **Collocation and Galerkin Time Stepping Methods**, Contributed Talk at [NASC RTG Ranch Retreat](https://sites.google.com/rice.edu/rtgranchretreat2024/home), Apr 19-20, 2024.
 - **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [SIAM TX-LA 2023 Conference](https://userweb.ucs.louisiana.edu/~C00424602/SIAMTXLA2023/minisymposia.html), Nov 3-5, 2023.
 - **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [RTG NASC Annual Workshop](https://drive.google.com/file/d/1kb-_YnmzEHVHXzucAvJq6HyDOL_5TAVg/view), Oct 13, 2023.
   
@@ -66,3 +67,4 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 - **International Student Outreach Director**, [Rice Graduate Student Association](https://gsa.rice.edu/). 
 - **Graduate Panelist**, [Rice University GCURS](https://gcurs.rice.edu/).  
 - **CMOR Diversity Lunch Organizer**, [CMOR Grad Seminar](https://events.rice.edu/event/347592-cmor-grad-seminar-cmor-diversity-lunch).
+- **President**, [LAU Mathematics Club](https://www.instagram.com/mathematics.club.lau/).
