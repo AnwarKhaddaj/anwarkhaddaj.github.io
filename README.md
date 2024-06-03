@@ -6,7 +6,7 @@
     <span style="font-size: 15px;">🖥️</span> I am passionate about applied mathematics, software engineering and high performance computing. Above all, I enjoy the excitement of tackling challenging scientific research problems. <br/><br/>
     <span style="font-size: 15px">📷</span> I recently got into photography and I enjoy adding captions to the pictures I take to bring them into perspective. Check out my page  <a href="https://www.instagram.com/captured_thoughtsandmemories/" target="_blank">here</a>. <br/><br/>
     <span style="font-size: 15px">👨‍💼</span> I am also interested in entrepreneurship. In fact, I cofounded a startup called <a href="https://www.linkedin.com/company/82903389/admin/feed/posts/" target="_blank">Stoodie</a> in Feb 2022, and made it to national TV in Lebanon. Check out my interview <a href="https://www.youtube.com/watch?v=7nYVsNGiFgs" target="_blank">here</a> at minute 12:20. <br/><br/>
-     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fanwarkhaddaj.github.io&count_bg=%2379A6E9&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/></a>  <br/><br/>
+     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fanwarkhaddaj.github.io&count_bg=%2379A6E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Website+Views+Today/Total&edge_flat=false"/></a>  <br/><br/>
     </p>
 </body>       
 
