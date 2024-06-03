@@ -1,10 +1,5 @@
 <body>
-    <p class="title-display">Welcome to my website!</p>
-
-    <!-- hitwebcounter Code START -->
-    <a href="https://www.hitwebcounter.com" target="_blank">
-    <img src="https://hitwebcounter.com/counter/counter.php?page=13849385&style=0006&nbdigits=4&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>                                    
-                                        
+    <p class="title-display">Welcome to my website!</p>                 
     <p class="p-display">
     <span style="font-size: 15px">👨‍🎓</span> I am a graduate student in Computational Applied Mathematics and Operations Research at <a href="https://cmor.rice.edu/" target="_blank">Rice University</a>. <br/><br/>
     <span style="font-size: 15px">🧠</span>My research is on parameter estimation in large-scale dynamical systems, applied to the field of computational neuroscience.<br/><br/>
