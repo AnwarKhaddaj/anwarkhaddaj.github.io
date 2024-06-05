@@ -18,9 +18,11 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 - **B.S.**,  Mathematics with a minor in Computer Science, Lebanese American University, May 2022
  
 ## Research Interests
-- **Parameter Estimation** 
-- **Dynamical Systems**
 - **Numerical Analysis**
+- **Scientific Computing**
+- **Parameter Estimation** 
+- **Computational Neuroscience**
+
 
 ## Research Talks and Presentations
 - **Collocation and Galerkin Time Stepping Methods**, Contributed Talk at [NASC RTG Ranch Retreat](https://sites.google.com/rice.edu/rtgranchretreat2024/home), Apr 19-20, 2024.
