@@ -27,8 +27,10 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 ## Research Talks and Presentations
 - **Collocation and Galerkin Time Stepping Methods**, Contributed Talk at [NASC RTG Ranch Retreat](https://sites.google.com/rice.edu/rtgranchretreat2024/home), Apr 19-20, 2024.
 - **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [SIAM TX-LA 2023 Conference](https://userweb.ucs.louisiana.edu/~C00424602/SIAMTXLA2023/minisymposia.html), Nov 3-5, 2023.
-- **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [RTG NASC Annual Workshop](https://drive.google.com/file/d/1kb-_YnmzEHVHXzucAvJq6HyDOL_5TAVg/view), Oct 13, 2023.
-  
+- **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [Research Training Group in
+Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://drive.google.com/file/d/1kb-_YnmzEHVHXzucAvJq6HyDOL_5TAVg/view), Oct 13, 2023.
+
+
 ## Projects
 - **Reduced Order Modeling of Heat Equation with Diffusion and Advection**, [Data Science and Dynamical Systems Final Project](https://github.com/AnwarKhaddaj/ROM-of-Heat-Equation)
   - Derived transfer functions and investigated different approximations of the impulse response of heat equations with diffusion and advection.
