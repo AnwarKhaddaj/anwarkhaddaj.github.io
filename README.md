@@ -14,7 +14,7 @@
 Check out my resume [here](AnwarKhaddajResume.pdf).
 
 ## Education 
-- **M.A.**,  Computational and Applied Mathematics, Rice University, Expected August 2024 
+- **M.A.**,  Computational and Applied Mathematics, Rice University, Expected December 2024 
 - **B.S.**,  Mathematics with a minor in Computer Science, Lebanese American University, May 2022
  
 ## Research Interests
