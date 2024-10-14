@@ -12,7 +12,7 @@
 </body>       
 
 ## Contact: [Email](mailto:anwar.khaddage@gmail.com) | [Linkedin](https://www.linkedin.com/in/anwarkhaddaj/)
-Check out my resume [here](AnwarKhaddajResume.pdf).
+Check out my resume [here](Anwar_Khaddaj_Resume.pdf).
 
 ## Education 
 - **M.A.**,  Computational and Applied Mathematics, Rice University, 2024 
