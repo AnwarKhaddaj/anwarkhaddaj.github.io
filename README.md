@@ -26,6 +26,9 @@ Check out my resume [here](AnwarKhaddajResume.pdf).
 
 
 ## Research Talks and Presentations
+- **Confidence and Degeneracy in Sequential Parameter Estimation of Biophysical Neuron Models**, Poster Presentation at [SIAM TX-LA 2024 Conference](https://math.artsandsciences.baylor.edu/conferences/siam-conference), Outstanding Poster Award, Oct 11-13, 2024. 
+- **Confidence and Degeneracy in Sequential Parameter Estimation of Biophysical Neuron Models**, Poster Presentation at [Research Training Group in
+Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://drive.google.com/file/d/1SjDLnC96HY40dz2G-Q8Vw_CyqgLaNr8t/view), Oct 4, 2024. 
 - **Collocation and Galerkin Time Stepping Methods**, Contributed Talk at [NASC RTG Ranch Retreat](https://sites.google.com/rice.edu/rtgranchretreat2024/home), Apr 19-20, 2024.
 - **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [SIAM TX-LA 2023 Conference](https://userweb.ucs.louisiana.edu/~C00424602/SIAMTXLA2023/minisymposia.html), Nov 3-5, 2023.
 - **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [Research Training Group in
@@ -48,6 +51,7 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 - **Software**: Git, Pyomo, IPOPT, Bash, LaTeX.
 
 ## Honors and Awards 
+- **Outstanding Poster Award**, SIAM TX-LA conference, October 2024
 - **Global Student Prize 2024 Top 50 Finalist**, Chegg Inc., July 2024
 - **Recognition Award**, School of Arts and Sciences, Lebanese American University, May 2022
 - **Hackathon Winner**, Fouad Makhzoumi Innovation Center, Feb 2022
