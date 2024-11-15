@@ -25,7 +25,7 @@
     </div>
     <span style="font-size: 0.9rem;"> I won the outstanding poster award out of 65 posters at the 
         <a href="https://math.artsandsciences.baylor.edu/conferences/siam-conference" target="_blank">SIAM TX-LA conference</a>
-        held at Baylor University in Waco, Texas.</a></span>
+        held at Baylor University in Waco, Texas.</span>
     <br/><br/>
 </span>
     
@@ -33,7 +33,7 @@
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline; margin: 5px;">
         <p style="margin: 0; font-size: 0.75rem; display: inline; white-space: nowrap; padding: 0;">July 16, 2024</p>
     </div>
-    <span style="font-size: 0.9rem;"> I have been selected as a Top 50 finalist of the <a href="https://www.chegg.org/global-student-prize-top-50-2024" target="_blank">Chegg Inc. Global Student Prize 2024</a> among more than 11000 applications from 176 countries! I am also proud to be the only Lebanese and Arab to reach this stage of the prize this year!</a></span>
+    <span style="font-size: 0.9rem;"> I have been selected as a Top 50 finalist of the <a href="https://www.chegg.org/global-student-prize-top-50-2024" target="_blank">Chegg Inc. Global Student Prize 2024</a> among more than 11000 applications from 176 countries! I am also proud to be the only Lebanese and Arab to reach this stage of the prize this year!</span>
     <br/><br/>
 </span>
     
