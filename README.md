@@ -9,6 +9,11 @@
     </p>
 </body>       
 
+<div class="floating-block" style="background-color: #f9c74f; color: #1d3557; padding: 20px; border-radius: 10px; width: 300px; float: left; margin: 15px;">
+    <h3>News</h3>
+    <p>Apr 15, 2023: I will...</p>
+</div>
+
 ## Recent News
 <body>         
     <span style="font-size: 15px">November 5, 2024:</span>I have successfully defended my Master's thesis on  <a href="https://events.rice.edu/event/364768-parameter-estimation-of-neuron-models-using-subset" target="_blank">"Parameter Estimation of Neuron Models using Subset Selection and Dynamic Optimization"</a> <br/><br/>
