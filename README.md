@@ -13,14 +13,14 @@
 ## Recent News
 <body>     
     <span style="font-size: 15px;">
-    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 200px; text-align: center;">
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 100px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">November 5, 2024</p>
     </div>
     <span style="font-size: 0.9rem;"> I have successfully defended my Master's thesis on <a href="https://events.rice.edu/event/364768-parameter-estimation-of-neuron-models-using-subset" target="_blank">"Parameter Estimation of Neuron Models using Subset Selection and Dynamic Optimization"</a></span>
     <br/><br/>
     </span>
     <span style="font-size: 15px;">
-    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 200px; text-align: center;">
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 100px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">October 13, 2024</p>
     </div>
     <span style="font-size: 0.9rem;"> I won the outstanding poster award out of 65 posters at the 
@@ -29,7 +29,16 @@
     <br/><br/>
     </span>
     <span style="font-size: 15px;">
-    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 200px; text-align: center;">
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 100px; text-align: center;">
+        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">September 17, 2024</p>
+    </div>
+    <span style="font-size: 0.9rem;"> The startup I mentored through the 
+        <a href="https://www.injaz-lebanon.org/activities/programs/companyprogram.html" target="_blank">company program</a> offered by Injaz Lebanon 
+        won the best social impact award at a national young entrepreneurs pitching competition under the theme of "Innovate for Science Education".</span>
+    <br/><br/>
+    </span>
+    <span style="font-size: 15px;">
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 100px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">July 16, 2024</p>
     </div>
     <span style="font-size: 0.9rem;"> I have been selected as a Top 50 finalist of the <a href="https://www.chegg.org/global-student-prize-top-50-2024" target="_blank">Chegg Inc. Global Student Prize 2024</a> among more than 11000 applications from 176 countries. I am also proud to be the only Lebanese and Arab to reach this stage of the prize this year.</span>
