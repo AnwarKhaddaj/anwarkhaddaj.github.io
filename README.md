@@ -14,7 +14,7 @@
 <body>         
     <span style="font-size: 15px;">
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline; margin: 5px;">
-        <p style="margin: 0; font-size: 0.75rem; display: inline; white-space: nowrap; padding: 0;">Nov 5, 2024:</p>
+        <p style="margin: 0; font-size: 0.75rem; display: inline; white-space: nowrap; padding: 0;">November 5, 2024</p>
     </div>
     <span style="font-size: 0.9rem;"> I have successfully defended my Master's thesis on <a href="https://events.rice.edu/event/364768-parameter-estimation-of-neuron-models-using-subset" target="_blank">"Parameter Estimation of Neuron Models using Subset Selection and Dynamic Optimization"</a></span>
     <br/><br/>
