@@ -4,13 +4,18 @@
     I am a graduate student in Computational Applied Mathematics and Operations Research at <a href="https://cmor.rice.edu/" target="_blank">Rice University</a>. <br/><br/>
     <span style="font-size: 15px">🧠</span>My research is on parameter estimation in large-scale dynamical systems, applied to the field of computational neuroscience.<br/><br/>
     <span style="font-size: 15px;">🖥️</span> I am passionate about applied mathematics, software engineering and high performance computing. Above all, I enjoy the excitement of tackling challenging scientific research problems. <br/><br/>
-    <span style="font-size: 15px;">🥳</span> I have successfully defended my Master's thesis on  <a href="https://events.rice.edu/event/364768-parameter-estimation-of-neuron-models-using-subset" target="_blank">"Parameter Estimation of Neuron Models using Subset Selection and Dynamic Optimization"</a> this November! <br/><br/>
     <span style="font-size: 15px">📷</span> I recently got into photography and I enjoy adding captions to the pictures I take to bring them into perspective. Check out my page  <a href="https://www.instagram.com/captured_thoughtsandmemories/" target="_blank">here</a>. <br/><br/>
     <span style="font-size: 15px">👨‍💼</span> I am also interested in entrepreneurship. In fact, I cofounded a startup called <a href="https://www.instagram.com/stoodie.lb/" target="_blank">Stoodie</a> in Feb 2022, won Jury's choice award by Injaz Lebanon and several hackathons, and got funded by UNICEF Lebanon and the Kingdom of Netherlands. I also made it to national television in Lebanon. Check out my interview <a href="https://www.youtube.com/watch?v=7nYVsNGiFgs" target="_blank">here</a> at minute 12:20. <br/><br/>
-    <span style="font-size: 15px">🏆</span> I have been selected as a Top 50 finalist of the <a href="https://www.chegg.org/global-student-prize-top-50-2024" target="_blank">Chegg Inc. Global Student Prize 2024</a> among more than 11000 applications from 176 countries! I am also proud to be the only Lebanese and Arab to reach this stage of the prize this year!  <br/><br/>
-     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fanwarkhaddaj.github.io&count_bg=%2379A6E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Website+Views+Today/Total&edge_flat=false"/></a>  <br/><br/>
     </p>
 </body>       
+
+## Recent News
+<body>         
+    <span style="font-size: 15px">November 5, 2024:</span>I have successfully defended my Master's thesis on  <a href="https://events.rice.edu/event/364768-parameter-estimation-of-neuron-models-using-subset" target="_blank">"Parameter Estimation of Neuron Models using Subset Selection and Dynamic Optimization"</a> <br/><br/>
+    <span style="font-size: 15px">July 16, 2024:</span> I have been selected as a Top 50 finalist of the <a href="https://www.chegg.org/global-student-prize-top-50-2024" target="_blank">Chegg Inc. Global Student Prize 2024</a> among more than 11000 applications from 176 countries! I am also proud to be the only Lebanese and Arab to reach this stage of the prize this year!  <br/><br/>
+     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fanwarkhaddaj.github.io&count_bg=%2379A6E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Website+Views+Today/Total&edge_flat=false"/></a>  <br/><br/>
+    </p>
+</body> 
 
 ## Contact: [Email](mailto:anwar.khaddage@gmail.com) | [Linkedin](https://www.linkedin.com/in/anwarkhaddaj/)
 Check out my resume [here](Anwar_Khaddaj_Resume.pdf).
