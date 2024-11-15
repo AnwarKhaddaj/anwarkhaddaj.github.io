@@ -11,17 +11,17 @@
 
 
 ## Recent News
-<body>         
+<body>     
     <span style="font-size: 15px;">
-    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline; margin: 5px;">
-        <p style="margin: 0; font-size: 0.75rem; display: inline; white-space: nowrap; padding: 0;">*November 5, 2024*</p>
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 200px; text-align: center;">
+        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">November 5, 2024</p>
     </div>
     <span style="font-size: 0.9rem;"> I have successfully defended my Master's thesis on <a href="https://events.rice.edu/event/364768-parameter-estimation-of-neuron-models-using-subset" target="_blank">"Parameter Estimation of Neuron Models using Subset Selection and Dynamic Optimization"</a></span>
     <br/><br/>
     </span>
     <span style="font-size: 15px;">
-    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline; margin: 5px;">
-        <p style="margin: 0; font-size: 0.75rem; display: inline; white-space: nowrap; padding: 0;">October 13, 2024</p>
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 200px; text-align: center;">
+        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">October 13, 2024</p>
     </div>
     <span style="font-size: 0.9rem;"> I won the outstanding poster award out of 65 posters at the 
         <a href="https://math.artsandsciences.baylor.edu/conferences/siam-conference" target="_blank">SIAM TX-LA conference</a>
@@ -29,13 +29,12 @@
     <br/><br/>
     </span>
     <span style="font-size: 15px;">
-    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline; margin: 5px;">
-        <p style="margin: 0; font-size: 0.75rem; display: inline; white-space: nowrap; padding: 0;">July 16, 2024</p>
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 200px; text-align: center;">
+        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">July 16, 2024</p>
     </div>
-    <span style="font-size: 0.9rem;"> I have been selected as a Top 50 finalist of the <a href="https://www.chegg.org/global-student-prize-top-50-2024" target="_blank">Chegg Inc. Global Student Prize 2024</a> among more than 11000 applications from 176 countries! I am also proud to be the only Lebanese and Arab to reach this stage of the prize this year!</span>
+    <span style="font-size: 0.9rem;"> I have been selected as a Top 50 finalist of the <a href="https://www.chegg.org/global-student-prize-top-50-2024" target="_blank">Chegg Inc. Global Student Prize 2024</a> among more than 11000 applications from 176 countries. I am also proud to be the only Lebanese and Arab to reach this stage of the prize this year.</span>
     <br/><br/>
-</span>
-    
+    </span>
      <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fanwarkhaddaj.github.io&count_bg=%2379A6E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Website+Views+Today/Total&edge_flat=false"/></a>  <br/><br/>
 </body> 
 
