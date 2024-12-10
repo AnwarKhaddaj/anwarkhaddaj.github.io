@@ -48,19 +48,12 @@
 </body> 
 
 ## Contact: [Email](mailto:anwar.khaddage@gmail.com) | [Linkedin](https://www.linkedin.com/in/anwarkhaddaj/)
-Check out my resume [here](Anwar_Khaddaj_Resume.pdf).
+Check out my CV [here](Anwar_Khaddaj_CV.pdf).
 
 ## Education 
 - **M.A.**, Computational and Applied Mathematics, Rice University, December 2024
 - **B.S.**,  Mathematics with a minor in Computer Science, Lebanese American University, May 2022
  
-## Research Interests
-- **Numerical Analysis**
-- **Scientific Computing**
-- **Parameter Estimation** 
-- **Computational Neuroscience**
-
-
 ## Research Talks and Presentations
 - **Confidence and Degeneracy in Sequential Parameter Estimation of Biophysical Neuron Models**, Poster Presentation at [SIAM TX-LA 2024 Conference](https://math.artsandsciences.baylor.edu/conferences/siam-conference), Outstanding Poster Award, Oct 11-13, 2024. 
 - **Confidence and Degeneracy in Sequential Parameter Estimation of Biophysical Neuron Models**, Poster Presentation at [Research Training Group in
