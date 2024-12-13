@@ -51,7 +51,7 @@
 Check out my CV [here](Anwar_Khaddaj_CV.pdf).
 
 ## Education 
-- **M.A.**, Computational and Applied Mathematics, Rice University, May 2025 (Defended on November 5, 2024)
+- **M.A.**, Computational and Applied Mathematics, Rice University, May 2025 (Thesis defended on November 5, 2024)
 - **B.S.**,  Mathematics with a minor in Computer Science, Lebanese American University, May 2022
  
 ## Research Talks and Presentations
