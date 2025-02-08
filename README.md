@@ -51,8 +51,8 @@
 Check out my CV [here](Anwar_Khaddaj_CV.pdf).
 
 ## Education 
-- **M.A.**, Computational and Applied Mathematics, Rice University, May 2025 (Thesis defended on November 5, 2024)
-- **B.S.**,  Mathematics with a minor in Computer Science, Lebanese American University, May 2022
+- **M.A.**, Computational and Applied Mathematics, CGPA: 3.91/4.0, Rice University, May 2025 (Thesis defended on November 5, 2024)
+- **B.S.**,  Mathematics with a minor in Computer Science, CGPA: 3.97/4.0, Lebanese American University, May 2022
  
 ## Research Talks and Presentations
 - **Confidence and Degeneracy in Sequential Parameter Estimation of Biophysical Neuron Models**, Poster Presentation at [SIAM TX-LA 2024 Conference](https://math.artsandsciences.baylor.edu/conferences/siam-conference), Outstanding Poster Award, Oct 11-13, 2024. 
@@ -65,6 +65,9 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 
 
 ## Projects
+- **URL Shortener Service**, [Software Engineering Methodology Final Project](https://github.com/CFan7/SnipWise)
+  - Implemented frontend using React and SpringBoot and backend using BigTable and deployed both on Google Cloud Platform (GCP).
+  - Tested latency of the system using JMeter Apache and optimized efficiency accordingly.
 - **Reduced Order Modeling of Heat Equation with Diffusion and Advection**, [Data Science and Dynamical Systems Final Project](https://github.com/AnwarKhaddaj/ROM-of-Heat-Equation)
   - Derived transfer functions and investigated different approximations of the impulse response of heat equations with diffusion and advection.
   - Applied model order reduction techniques such as Lyapunov balanced truncations, Loewner and Hankel frameworks using MATLAB of the infinite-dimensional and discretized heat equations and       compared their Bode error plots.
