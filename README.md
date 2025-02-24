@@ -55,7 +55,7 @@
 </body> 
 
 ## Contact: [Email](mailto:anwar.khaddage@gmail.com) | [Linkedin](https://www.linkedin.com/in/anwarkhaddaj/)
-Check out my CV [here](Anwar_Khaddaj_CV.pdf).
+Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
 
 ## Education 
 - **M.A.**, Computational and Applied Mathematics, CGPA: 3.91/4.0, Rice University, May 2025 (Thesis defended on November 5, 2024)
