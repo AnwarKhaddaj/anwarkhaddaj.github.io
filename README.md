@@ -62,6 +62,7 @@ Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
 - **B.S.**,  Mathematics with a minor in Computer Science, CGPA: 3.97/4.0, Lebanese American University, May 2022
  
 ## Research Talks and Presentations
+- **Confidence and Degeneracy in Parameter Estimation of Biophysical Neuron Models**, Poster Presentation at [Energy HPC 2025 Conference](https://www.energyhpc.rice.edu/), Feb 25-27, 2025.
 - **Parameter estimation of neuron models using subset selection and dynamic optimization**, Invited Talk at graduate research seminar organized by Mathematics Club at Lebanese American University, Feb 18, 2025.
 - **Confidence and Degeneracy in Sequential Parameter Estimation of Biophysical Neuron Models**, Poster Presentation at [SIAM TX-LA 2024 Conference](https://math.artsandsciences.baylor.edu/conferences/siam-conference), Outstanding Poster Award, Oct 11-13, 2024. 
 - **Confidence and Degeneracy in Sequential Parameter Estimation of Biophysical Neuron Models**, Poster Presentation at [Research Training Group in
