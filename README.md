@@ -125,3 +125,5 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 - **Graduate Panelist**, [Rice University GCURS](https://gcurs.rice.edu/).  
 - **CMOR Diversity Lunch Organizer**, [CMOR Grad Seminar](https://events.rice.edu/event/347592-cmor-grad-seminar-cmor-diversity-lunch).
 - **President**, [LAU Mathematics Club](https://www.instagram.com/mathematics.club.lau/).
+
+Last Updated: Feb 28, 2025
