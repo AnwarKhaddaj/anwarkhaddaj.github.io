@@ -72,6 +72,12 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 - **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [Research Training Group in
 Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://drive.google.com/file/d/1kb-_YnmzEHVHXzucAvJq6HyDOL_5TAVg/view), Oct 13, 2023.
 
+## Other Talks and Presentations
+- [**The Journey to Unshakable Self-Belief**](https://drive.google.com/file/d/1hGjmwtI9f-tNTKtyz2-fH7XXDTwp0hSC/view?usp=sharing), Presentation to graduate international students at Rice University + Panel moderation of professionals from different resource offices at Rice University, Dec 5, 2024.
+- [**A Glimpse into Graduate Mathematics**](https://www.instagram.com/p/DDKuFyCuHyA/), Discussion to undergraduate students at Lebanese American University interested to pursue graduate school, Dec 4 2024.
+- **Key Student-to-Student Tips**, Presentation to incoming graduate international students during graduate student orientation at Rice University, Aug 20, 2024.
+- **Impostor Syndrome**, Presentation to incoming graduate international students participating during the summer international buddy program at Rice University, Jul 21, 2023.
+- [**Meet Mathematics Alumni**](https://www.instagram.com/p/Clt1_BFKZTH/?img_index=1), Discussion to undergraduate students during a Mathematics club virtual event at Lebanese American University, Dec 7, 2022.
 
 ## Projects
 - **URL Shortener Service**, [Software Engineering Methodology Final Project](https://github.com/CFan7/SnipWise)
@@ -79,7 +85,7 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
   - Tested latency of the system using JMeter Apache and optimized efficiency accordingly.
 - **Reduced Order Modeling of Heat Equation with Diffusion and Advection**, [Data Science and Dynamical Systems Final Project](https://github.com/AnwarKhaddaj/ROM-of-Heat-Equation)
   - Derived transfer functions and investigated different approximations of the impulse response of heat equations with diffusion and advection.
-  - Applied model order reduction techniques such as Lyapunov balanced truncations, Loewner and Hankel frameworks using MATLAB of the infinite-dimensional and discretized heat equations and       compared their Bode error plots.
+  - Applied model order reduction techniques such as Lyapunov balanced truncations, Loewner and Hankel frameworks using MATLAB of the infinite-dimensional and discretized heat equations and compared their Bode error plots.
 - **Vaccination Center Website**, [Database Management Systems Final Project](https://github.com/AnwarKhaddaj/DatabaseProject)
   - Developed a website using PHP, enabling patient registration for vaccinations and enhancing the efficiency of vaccination
     operations through the integration of robust functionalities and user-friendly interfaces.
