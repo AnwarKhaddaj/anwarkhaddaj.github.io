@@ -16,6 +16,13 @@ Last Updated: Mar 6, 2025.
 <body>  
     <span style="font-size: 15px;">
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
+        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">March 15, 2025</p>
+    </div>
+    <span style="font-size: 0.9rem;"> I attended a 4-day <a href="https://alliance.rice.edu/ignite" target="_blank">Ignite Entrepreneurship trek</a> in Silicon Valley meeting successful entrepeneurs and VC companies organized by Rice Alliance for Technology and Entrepreneurship. Read more <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307814884270841856/" target="_blank">here</a>. </span>
+    <br/><br/>
+    </span>
+    <span style="font-size: 15px;">
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">February 18, 2025</p>
     </div>
     <span style="font-size: 0.9rem;"> I gave an invited talk entitled "Parameter estimation of neuron models using subset selection and dynamic optimization" at an online graduate research seminar organized by the Mathematics club at Lebanese American University.</span>
