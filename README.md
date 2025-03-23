@@ -106,38 +106,38 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 - **Software**: Git, Pyomo, IPOPT, Bash, LaTeX.
 
 ## Honors and Awards 
-- **Outstanding Poster Award**, SIAM TX-LA conference, October 2024
-- **Global Student Prize 2024 Top 50 Finalist**, Chegg Inc., July 2024
-- **Recognition Award**, School of Arts and Sciences, Lebanese American University, May 2022
-- **Hackathon Winner**, Fouad Makhzoumi Innovation Center, Feb 2022
-- **Top 2 Young Leader**, Young Leaders Program, Saradar Bank and ESA Business School, Sept 2022
-- **Jury's Choice Award**, TAQA Youth Well-being Championship, Injaz and UNICEF Lebanon, Nov 2021
-- **Certified Microsoft Innovative Educator**, Microsoft Education Center, August 2021
-- **Hero Mathematics Tutor**, MMKN Organization, May 2021
-- **Full Merit Scholarship**, Lebanese American University, August 2019
-- **Top 16 National Exams**, Lebanese Baccalaureate General Sciences National Exams, July 2019
+- **Outstanding Poster Award**, SIAM TX-LA conference, Oct 2024.
+- **Global Student Prize 2024 Top 50 Finalist**, Chegg Inc., July 2024.
+- **Recognition Award**, School of Arts and Sciences, Lebanese American University, May 2022.
+- **Hackathon Winner**, Fouad Makhzoumi Innovation Center, Feb 2022.
+- **Top 2 Young Leader**, Young Leaders Program, Saradar Bank and ESA Business School, Sept 2022.
+- **Jury's Choice Award**, TAQA Youth Well-being Championship, Injaz and UNICEF Lebanon, Nov 2021.
+- **Certified Microsoft Innovative Educator**, Microsoft Education Center, Aug 2021.
+- **Hero Mathematics Tutor**, MMKN Organization, May 2021.
+- **Full Merit Scholarship**, Lebanese American University, Aug 2019.
+- **Top 16 National Exams**, Lebanese Baccalaureate General Sciences National Exams, July 2019.
 
 ## Teaching 
-- **Computational Science**, Grader, Rice University, Fall 2024
-- **Iterative Methods and Unconstrained Optimization (Qualifying Exam Course)**, Grader, Rice University, Spring 2024
-- **Advanced Numerical Analysis (Qualifying Exam Course)**, Grader, Rice University, Fall 2023
-- **Differential Equations in Science and Engineering**, Grader, Rice University, Spring 2023 & Spring 2025
-- **Matrix Analysis**, Grader, Rice University, Fall 2022
-- **Calculus II**, Teaching Assistant, Lebanese American University, Spring 2022
-- **AI Hackathon**, Trainer, Geek Express, Summer 2022
-- **Programming**, Instructor, Geek Express, September 2019 - July 2022
-- **High School Mathematics**, Coordinator and Tutor, MMKN Organization, September 2019 - June 2021
+- **Computational Science**, Grader, Rice University, Fall 2024.
+- **Iterative Methods and Unconstrained Optimization (Qualifying Exam Course)**, Grader, Rice University, Spring 2024.
+- **Advanced Numerical Analysis (Qualifying Exam Course)**, Grader, Rice University, Fall 2023.
+- **Differential Equations in Science and Engineering**, Grader, Rice University, Spring 2023 & Spring 2025.
+- **Matrix Analysis**, Grader, Rice University, Fall 2022.
+- **Calculus II**, Teaching Assistant, Lebanese American University, Spring 2022.
+- **AI Hackathon**, Trainer, Geek Express, Summer 2022.
+- **Programming**, Instructor, Geek Express, Sept 2019 - July 2022.
+- **High School Mathematics**, Coordinator and Tutor, MMKN Organization, Sept 2019 - June 2021.
 
 ## Leadership and Service
-- **Ignite Entrepreneurship Trek to Silicon Valley Participant**, [Rice Alliance Ignite Trek](https://alliance.rice.edu/ignite).
-- **Engineering Communication Coach**, [Rice Activate Engineering Communication Program](https://engineering.rice.edu/activate/activate-coaches).
-- **Mentor**, [Injaz Company Program](https://www.injaz-lebanon.org/activities/programs/companyprogram.html).
-- **Treasurer**, [Rice SIAM Chapter](https://www.cmor-faculty.rice.edu/~siamchapter/).
-- **Speaking Coach**, TEDxRice. Read more about the event I helped organize [here](https://www.ricethresher.org/article/2022/11/tedxriceu-conference-addresses-climate-change).
-- **International Buddy Program Leader**, Rice Office of International Students and Scholars. I got featured in [Fall 2023 Newsletter page 12](https://repository.rice.edu/server/api/core/bitstreams/8c916a3b-e39c-49c1-bd51-2fcff8bdf743/content).
-- **Professional Leadership Experience Coachee**, [Doerr Institute for New Leaders at Rice University](https://doerr.rice.edu/).
-- **International Student Outreach Director**, [Rice Graduate Student Association](https://gsa.rice.edu/). 
-- **Graduate Panelist**, [Rice University GCURS](https://gcurs.rice.edu/).  
-- **CMOR Diversity Lunch Organizer**, [CMOR Grad Seminar](https://events.rice.edu/event/347592-cmor-grad-seminar-cmor-diversity-lunch).
-- **President**, [LAU Mathematics Club](https://www.instagram.com/mathematics.club.lau/).
+- **Ignite Entrepreneurship Trek to Silicon Valley Participant**, [Rice Alliance Ignite Trek](https://alliance.rice.edu/ignite), March 12-15, 2025
+- **Engineering Communication Coach**, [Rice Activate Engineering Communication Program](https://engineering.rice.edu/activate/activate-coaches), Aug 2024 - Present.
+- **Mentor**, [Injaz Company Program](https://www.injaz-lebanon.org/activities/programs/companyprogram.html), June 2024 - Sept 2024.
+- **Graduate Panelist**, [Rice University GCURS](https://gcurs.rice.edu/), Oct 21, 2023.
+- **SIAM Treasurer**, [Rice SIAM Chapter](https://www.cmor-faculty.rice.edu/~siamchapter/), Aug 2023 - Aug 2024.
+- **International Buddy Program Leader and Graduate International Orientation Leader**, Rice Office of International Students and Scholars. I got featured in [Fall 2023 Newsletter page 12](https://repository.rice.edu/server/api/core/bitstreams/8c916a3b-e39c-49c1-bd51-2fcff8bdf743/content), May 2023 - Aug 2024.
+- **International Student Outreach Director**, [Rice Graduate Student Association](https://gsa.rice.edu/), May 2023 - May 2024.
+- **Speaking Coach**, TEDxRice. Read more about the event I helped organize [here](https://www.ricethresher.org/article/2022/11/tedxriceu-conference-addresses-climate-change), Sep 2022 - Dec 2022.
+- **Professional Leadership Experience Coachee**, [Doerr Institute for New Leaders at Rice University](https://doerr.rice.edu/), Sep 2022 - Dec 2022.
+- **CMOR Diversity Lunch Organizer**, [CMOR Grad Seminar](https://events.rice.edu/event/347592-cmor-grad-seminar-cmor-diversity-lunch), Dec 2022 & April 2023.
+- **President**, [LAU Mathematics Club](https://www.instagram.com/mathematics.club.lau/), May 2021 - May 2022.
 
