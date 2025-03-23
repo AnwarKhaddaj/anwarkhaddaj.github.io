@@ -121,7 +121,7 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 - **Computational Science**, Grader, Rice University, Fall 2024
 - **Iterative Methods and Unconstrained Optimization (Qualifying Exam Course)**, Grader, Rice University, Spring 2024
 - **Advanced Numerical Analysis (Qualifying Exam Course)**, Grader, Rice University, Fall 2023
-- **Differential Equations**, Grader, Rice University, Spring 2023
+- **Differential Equations in Science and Engineering**, Grader, Rice University, Spring 2023 & Spring 2025
 - **Matrix Analysis**, Grader, Rice University, Fall 2022
 - **Calculus II**, Teaching Assistant, Lebanese American University, Spring 2022
 - **AI Hackathon**, Trainer, Geek Express, Summer 2022
