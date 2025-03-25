@@ -11,8 +11,6 @@
      <br/><br/>
 </body>     
 
-Last Updated: March 23, 2025.
-
 ## Recent News
 <body>  
     <span style="font-size: 15px;">
