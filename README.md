@@ -9,7 +9,8 @@
     </p>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fanwarkhaddaj.github.io&count_bg=%2379A6E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Website+Views+Today/Total&edge_flat=false"/></a>  
      <br/><br/>
-</body>       
+</body>     
+
 Last Updated: March 23, 2025.
 
 ## Recent News
