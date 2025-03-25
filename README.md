@@ -7,8 +7,7 @@
     <span style="font-size: 15px">📷</span> I recently got into photography and I enjoy adding captions to the pictures I take to bring them into perspective. Check out my page  <a href="https://www.instagram.com/captured_thoughtsandmemories/" target="_blank">here</a>. <br/><br/>
     <span style="font-size: 15px">👨‍💼</span> I am also interested in entrepreneurship. In fact, I cofounded a startup called <a href="https://www.instagram.com/stoodie.lb/" target="_blank">Stoodie</a> in Feb 2022, won Jury's choice award by Injaz Lebanon and several hackathons, and got funded by UNICEF Lebanon and the Kingdom of Netherlands. I also made it to national television in Lebanon. Check out my interview <a href="https://www.youtube.com/watch?v=7nYVsNGiFgs" target="_blank">here</a> at minute 12:20. <br/><br/>
     </p>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fanwarkhaddaj.github.io&count_bg=%2379A6E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Website+Views+Today/Total&edge_flat=false"/></a>  
-     <br/><br/>
+    Last Updated: March 23, 2025.
 </body>     
 
 ## Recent News
