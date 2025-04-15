@@ -79,6 +79,7 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://drive.google.com/file/d/1kb-_YnmzEHVHXzucAvJq6HyDOL_5TAVg/view), Oct 13, 2023.
 
 ## Other Talks and Presentations
+- [**The Journey to Unshakable Self-Belief**](https://www.linkedin.com/posts/ja-worldwide_alumni-days-at-glc-presents-alumni-skillshares-activity-7313832730817888256-PfYw/), Accepted talk at Junior Achievements (JA) Global Leadership Conference, Apr 12, 2025.
 - [**The Journey to Unshakable Self-Belief**](https://drive.google.com/file/d/1hGjmwtI9f-tNTKtyz2-fH7XXDTwp0hSC/view?usp=sharing), Presentation to graduate international students at Rice University + Panel moderation of professionals from different resource offices at Rice University, Dec 5, 2024.
 - [**A Glimpse into Graduate Mathematics**](https://www.instagram.com/p/DDKuFyCuHyA/), Discussion to undergraduate students at Lebanese American University interested to pursue graduate school, Dec 4 2024.
 - **Key Student-to-Student Tips**, Presentation to incoming graduate international students during graduate student orientation at Rice University, Aug 20, 2024.
