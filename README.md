@@ -64,7 +64,7 @@
 Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
 
 ## Education 
-- **M.A.**, Computational and Applied Mathematics, CGPA: 3.91/4.0, Rice University, May 2025 (Thesis defended on November 5, 2024)
+- **M.A.**, Computational and Applied Mathematics, CGPA: 3.91/4.0, Rice University, May 2025 
 - **B.S.**,  Mathematics with a minor in Computer Science, CGPA: 3.97/4.0, Lebanese American University, May 2022
  
 ## Research Talks and Presentations
