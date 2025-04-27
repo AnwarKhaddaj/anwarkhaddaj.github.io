@@ -16,7 +16,7 @@
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">April 25, 2025</p>
     </div>
-    <span style="font-size: 0.9rem;"> I have successfully completed a hybrid <a href="https://www.linkedin.com/feed/update/urn:li:activity:7322133481780609024/" target="_blank">"externship"</a> at Google with Karl Smayling, focusing on cloud sales engineering and product management.</span>
+    <span style="font-size: 0.9rem;"> I have successfully completed a hybrid <a href="https://www.linkedin.com/feed/update/urn:li:activity:7322133481780609024/" target="_blank">externship</a> at Google with Karl Smayling, focusing on cloud sales engineering and product management.</span>
     <br/><br/>
     </span>
     <span style="font-size: 15px;">
