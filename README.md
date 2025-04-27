@@ -14,6 +14,13 @@
 <body> 
     <span style="font-size: 15px;">
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
+        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">April 25, 2025</p>
+    </div>
+    <span style="font-size: 0.9rem;"> I have successfully completed a hybrid externship at Google with Karl Smayling, focusing on cloud sales engineering and product management.</span>
+    <br/><br/>
+    </span>
+    <span style="font-size: 15px;">
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">April 21, 2025</p>
     </div>
     <span style="font-size: 0.9rem;"> I have successfully defended my Master's thesis on <a href="https://events.rice.edu/event/364768-parameter-estimation-of-neuron-models-using-subset" target="_blank">"Parameter Estimation of Neuron Models using Subset Selection and Dynamic Optimization"</a>.</span>
