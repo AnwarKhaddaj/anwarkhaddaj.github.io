@@ -16,7 +16,7 @@
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">May 8, 2025</p>
     </div>
-    <span style="font-size: 0.9rem;"> I was awarded the gradaute coaching hours leader certificate with <a href="https://activate.rice.edu/" target="_blank">Activate engineering communication program</a> for being an engineering coach who completed the most coaching appointments (59 appointments) in the year 2024-2025.</span>
+    <span style="font-size: 0.9rem;"> I was awarded the graduate coaching hours leader certificate with <a href="https://activate.rice.edu/" target="_blank">Activate engineering communication program</a> for being an engineering coach who completed the most coaching appointments (59 appointments) in the year 2024-2025.</span>
     <br/><br/>
     </span>
     <span style="font-size: 15px;">
