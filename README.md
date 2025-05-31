@@ -6,7 +6,7 @@
     <span style="font-size: 15px;">🖥️</span> I am passionate about applied mathematics, software engineering and high performance computing. Above all, I enjoy the excitement of tackling challenging scientific research problems. <br/><br/>
     <span style="font-size: 15px">📷</span> I recently got into photography and I enjoy adding captions to the pictures I take to bring them into perspective. Check out my page  <a href="https://www.instagram.com/captured_thoughtsandmemories/" target="_blank">here</a>. <br/><br/>
     <span style="font-size: 15px">👨‍💼</span> I am also interested in entrepreneurship. In fact, I cofounded a startup called <a href="https://www.instagram.com/stoodie.lb/" target="_blank">Stoodie</a> in September 2021, won Jury's choice award by Injaz Lebanon and several hackathons, and got funded by UNICEF Lebanon and the Kingdom of Netherlands. I also made it to national television in Lebanon. Check out my interview <a href="https://www.youtube.com/watch?v=7nYVsNGiFgs" target="_blank">here</a> at minute 12:20. 
-        <br><br>Website Last Updated: May 15, 2025.<br/>
+        <br><br>Website Last Updated: May 31, 2025.<br/>
     </p>    
 </body>     
 
@@ -77,7 +77,21 @@
 ## Contact: [Email](mailto:anwar.khaddage@gmail.com) | [Linkedin](https://www.linkedin.com/in/anwarkhaddaj/)
 Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
 
-## Education 
+## Education
+<ul style="list-style-type: disc; margin-left: 20px; padding-left: 0;">
+  <li style="margin-bottom: 0;">
+    <strong>M.A.</strong>, Computational and Applied Mathematics, CGPA: 3.92/4.0, Rice University, May 2025
+    <ul style="margin-top: 0; margin-bottom: 0;">
+      <li style="margin-top: 0;">
+        <em>Master’s thesis</em>: <a href="https://repository.rice.edu/items/91079688-1b24-419d-9f83-da94ae0a746c" target="_blank">Parameter Estimation of Neuron Models using Subset Selection and Dynamic Optimization</a>.
+      </li>
+    </ul>
+  </li>
+  <li style="margin-top: 0;">
+    <strong>B.S.</strong>, Mathematics with a minor in Computer Science, CGPA: 3.97/4.0, Lebanese American University, May 2022
+  </li>
+</ul>
+
 - **M.A.**, Computational and Applied Mathematics, CGPA: 3.92/4.0, Rice University, May 2025
   - **Master's thesis**: [Parameter Estimation of Neuron Models using Subset Selection and Dynamic Optimization](https://repository.rice.edu/items/91079688-1b24-419d-9f83-da94ae0a746c).
 - **B.S.**,  Mathematics with a minor in Computer Science, CGPA: 3.97/4.0, Lebanese American University, May 2022
