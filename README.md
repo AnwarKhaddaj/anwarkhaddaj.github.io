@@ -83,7 +83,7 @@ Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
     <strong>M.A.</strong>, Computational and Applied Mathematics, CGPA: 3.92/4.0, Rice University, May 2025
     <ul style="margin-top: 0; margin-bottom: 0;">
       <li style="margin-top: 0;">
-        <em>Master’s thesis</em>: <a href="https://repository.rice.edu/items/91079688-1b24-419d-9f83-da94ae0a746c" target="_blank">Parameter Estimation of Neuron Models using Subset Selection and Dynamic Optimization</a>.
+        <strong>Master's Thesis</strong>: <a href="https://repository.rice.edu/items/91079688-1b24-419d-9f83-da94ae0a746c" target="_blank">Parameter Estimation of Neuron Models using Subset Selection and Dynamic Optimization</a>.
       </li>
     </ul>
   </li>
