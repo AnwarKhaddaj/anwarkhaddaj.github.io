@@ -137,6 +137,7 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 - **Software**: Git, Pyomo, IPOPT, Bash, LaTeX.
 
 ## Honors and Awards 
+- **McKinsey.org Forward Program Participant Badge**, McKinsey & Company, July 2025.
 - **Graduate Coaching Hours Leader Certificate**, Activate Engineering Communication program at Rice University, May 2025.
 - **Outstanding Poster Award**, SIAM TX-LA conference, Oct 2024.
 - **Global Student Prize 2024 Top 50 Finalist**, Chegg Inc., July 2024.
@@ -162,7 +163,7 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 
 ## Leadership and Service
 - **Ignite Entrepreneurship Trek to Silicon Valley Participant**, [Rice Alliance Ignite Trek](https://alliance.rice.edu/ignite), March 12-15, 2025
-- **Engineering Communication Coach**, [Rice Activate Engineering Communication Program](https://engineering.rice.edu/activate/activate-coaches), Aug 2024 - Present.
+- **Engineering Communication Coach**, [Rice Activate Engineering Communication Program](https://engineering.rice.edu/activate/activate-coaches), Aug 2024 - May 2025.
 - **Mentor**, [Injaz Company Program](https://www.injaz-lebanon.org/activities/programs/companyprogram.html), June 2024 - Sept 2024.
 - **Graduate Panelist**, [Rice University GCURS](https://gcurs.rice.edu/), Oct 21, 2023.
 - **SIAM Treasurer**, [Rice SIAM Chapter](https://www.cmor-faculty.rice.edu/~siamchapter/), Aug 2023 - Aug 2024.
