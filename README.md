@@ -1,7 +1,7 @@
 <body>
     <p class="title-display">Welcome to my website! </p>                 
     <p class="p-display">
-    I am an incoming PhD student in Applied Mathematics <a href="https://math.asu.edu/research/applied-mathematics" target="_blank">Arizona State University</a>. <br/><br/>
+    I am an incoming PhD student in Applied Mathematics at <a href="https://math.asu.edu/research/applied-mathematics" target="_blank">Arizona State University</a>. <br/><br/>
     <span style="font-size: 15px">🧠</span>My research is on parameter estimation in differential equations, applied to the field of computational neuroscience.<br/><br/>
     <span style="font-size: 15px;">🖥️</span> I am passionate about applied mathematics, software engineering and high performance computing. Above all, I enjoy the excitement of tackling challenging scientific research problems. <br/><br/>
     <span style="font-size: 15px">📷</span> I recently got into photography and I enjoy adding captions to the pictures I take to bring them into perspective. Check out my page  <a href="https://www.instagram.com/captured_thoughtsandmemories/" target="_blank">here</a>. <br/><br/>
