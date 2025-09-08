@@ -1,17 +1,24 @@
 <body>
     <p class="title-display">Welcome to my website! </p>                 
     <p class="p-display">
-    I am an incoming PhD student in Applied Mathematics at <a href="https://math.asu.edu/research/applied-mathematics" target="_blank">Arizona State University</a>. <br/><br/>
+    I am a PhD student in Applied Mathematics at <a href="https://math.asu.edu/research/applied-mathematics" target="_blank">Arizona State University</a>. <br/><br/>
     <span style="font-size: 15px">🧠</span>My research is on parameter estimation in differential equations, applied to the field of computational neuroscience.<br/><br/>
     <span style="font-size: 15px;">🖥️</span> I am passionate about applied mathematics, software engineering and high performance computing. Above all, I enjoy the excitement of tackling challenging scientific research problems. <br/><br/>
     <span style="font-size: 15px">📷</span> I recently got into photography and I enjoy adding captions to the pictures I take to bring them into perspective. Check out my page  <a href="https://www.instagram.com/captured_thoughtsandmemories/" target="_blank">here</a>. <br/><br/>
     <span style="font-size: 15px">👨‍💼</span> I am also interested in entrepreneurship. In fact, I cofounded a startup called <a href="https://www.instagram.com/stoodie.lb/" target="_blank">Stoodie</a> in September 2021, won Jury's choice award by Injaz Lebanon and several hackathons, and got funded by UNICEF Lebanon and the Kingdom of Netherlands. I also made it to national television in Lebanon. Check out my interview <a href="https://www.youtube.com/watch?v=7nYVsNGiFgs" target="_blank">here</a> at minute 12:20. 
-        <br><br>Website Last Updated: July 8, 2025.<br/>
+        <br><br>Website Last Updated: September 7, 2025.<br/>
     </p>    
 </body>     
 
 ## Recent News
 <body> 
+    <span style="font-size: 15px;">
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
+        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">August 12, 2025</p>
+    </div>
+    <span style="font-size: 0.9rem;"> I successfully finished the <a href="https://www.simula.no/education/courses-summer-schools/summer-school-computational-physiology" target="_blank">summer school in computational physiology</a> hosted by Simula research laboratory in Norway, University of Oslo, and University of California, San Diego where I had 2 weeks of formal lectures and project work in June in Oslo, Norway, followed by 1.5 weeks of workshops, and presentations in August at UCSD. I presented my work on parameter sensitivity analyses techniques in pancreatic beta-cell models to explore and reconstruct the intrinsic and extrinsic determinants of heterogeneity in a beta-cell network</span>
+    <br/><br/>
+    </span>
     <span style="font-size: 15px;">
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">July 8, 2025</p>
