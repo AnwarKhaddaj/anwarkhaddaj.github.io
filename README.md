@@ -23,7 +23,7 @@
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">July 8, 2025</p>
     </div>
-    <span style="font-size: 0.9rem;"> I just successfully finished the <a href="https://www.credly.com/badges/613405aa-bb63-4904-82ff-38cf20f0b358/public_url" target="_blank">McKinsey.org Forward Program</a>, a 10-week learning program designed to equip individuals with practical skills to succeed in the future of work. I learned how to apply the McKinsey approach to problem-solving, become more effective and influential communicator and develop adaptable and resilience mindset and habits.</span>
+    <span style="font-size: 0.9rem;"> I successfully finished the <a href="https://www.credly.com/badges/613405aa-bb63-4904-82ff-38cf20f0b358/public_url" target="_blank">McKinsey.org Forward Program</a>, a 10-week learning program designed to equip individuals with practical skills to succeed in the future of work. I learned how to apply the McKinsey approach to problem-solving, become more effective and influential communicator and develop adaptable and resilience mindset and habits.</span>
     <br/><br/>
     </span>
     <span style="font-size: 15px;">
@@ -93,6 +93,9 @@ Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
 
 ## Education
 <ul style="list-style-type: disc; margin-left: 20px; padding-left: 0;">
+ <li style="margin-bottom: 0;">
+    <strong>PhD</strong>, Applied Mathematics, Arizona State University, August 2025 - Present
+  </li>
   <li style="margin-bottom: 0;">
     <strong>M.A.</strong>, Computational and Applied Mathematics, CGPA: 3.92/4.0, Rice University, May 2025
     <ul style="margin-top: 0; margin-bottom: 0;">
@@ -107,6 +110,7 @@ Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
 </ul>
 
 ## Research Talks and Presentations
+- **Exploring the intrinsic and extrinsic determinants of heterogeneity in a 𝜷-cell network**, Talk at University of California, San Diego, Aug 12, 2025.
 - **Confidence and Degeneracy in Parameter Estimation of Biophysical Neuron Models**, Poster Presentation at [Energy HPC 2025 Conference](https://www.energyhpc.rice.edu/), Feb 25-27, 2025.
 - **Parameter estimation of neuron models using subset selection and dynamic optimization**, Invited Talk at graduate research seminar organized by Mathematics Club at Lebanese American University, Feb 18, 2025.
 - **Confidence and Degeneracy in Sequential Parameter Estimation of Biophysical Neuron Models**, Poster Presentation at [SIAM TX-LA 2024 Conference](https://math.artsandsciences.baylor.edu/conferences/siam-conference), Outstanding Poster Award, Oct 11-13, 2024. 
@@ -126,6 +130,9 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 - [**Meet Mathematics Alumni**](https://www.instagram.com/p/Clt1_BFKZTH/?img_index=1), Discussion to undergraduate students during a Mathematics club virtual event at Lebanese American University, Dec 7, 2022.
 
 ## Projects
+- **Exploring the intrinsic and extrinsic determinants of heterogeneity in a 𝜷-cell network**, [Simula Summer School in Computational Physiology Project](https://www.simula.no/education/courses-summer-schools/summer-school-computational-physiology)
+  - Worked with collaborators at Simula research laboratory, University of California, San Diego, and University of California, Davis to explore the reconstruction of real pancreatic islets by studying the intrinsic and extrinsic heterogeneity of beta cells in a network.
+  - Implemented feature and ODE-based sensitivity analyses techniques to determine parameters responsible for intrinsic dynamic behaviors of beta cells.
 - **URL Shortener Service**, [Software Engineering Methodology Final Project](https://github.com/CFan7/SnipWise)
   - Implemented frontend using React and SpringBoot and backend using BigTable and deployed both on Google Cloud Platform (GCP).
   - Tested latency of the system using JMeter Apache and optimized efficiency accordingly.
