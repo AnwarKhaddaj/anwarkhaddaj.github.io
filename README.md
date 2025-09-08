@@ -16,7 +16,14 @@
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">August 12, 2025</p>
     </div>
-    <span style="font-size: 0.9rem;"> I successfully finished the <a href="https://www.simula.no/education/courses-summer-schools/summer-school-computational-physiology" target="_blank">summer school in computational physiology</a> hosted by Simula research laboratory in Norway, University of Oslo, and University of California, San Diego where I had 2 weeks of formal lectures and project work in June in Oslo, Norway, followed by 1.5 weeks of workshops, and presentations in August at UCSD. I presented my work on parameter sensitivity analyses techniques in pancreatic beta-cell models to explore and reconstruct the intrinsic and extrinsic determinants of heterogeneity in a beta-cell network</span>
+    <span style="font-size: 0.9rem;"> I successfully finished the <a href="https://www.simula.no/education/courses-summer-schools/summer-school-computational-physiology" target="_blank">summer school in computational physiology</a> hosted by Simula research laboratory in Norway, University of Oslo, and University of California, San Diego where I had 2 weeks of formal lectures and project work in June in Oslo, Norway, followed by 1.5 weeks of workshops, and presentations in August at UCSD. I presented my work on parameter sensitivity analyses techniques in pancreatic beta-cell models to explore and reconstruct the intrinsic and extrinsic determinants of heterogeneity in a beta-cell network.</span>
+    <br/><br/>
+    </span>
+    <span style="font-size: 15px;">
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
+        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">July 25, 2025</p>
+    </div>
+    <span style="font-size: 0.9rem;"> I mentored two startups during their journey in the <a href="https://innovate.lau.edu.lb/programs/" target="_blank"> LAU Spark incubator program</a> at the Lebanese American University’s Fouad Makhzoumi Center for Innovation, providing guidance on strategy and pitch development. 
     <br/><br/>
     </span>
     <span style="font-size: 15px;">
@@ -150,7 +157,8 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 - **Python Libraries**: NumPy, SciPy, Matplotlib, Pandas, JAX, Scikit-learn, TensorFlow, Keras.
 - **Software**: Git, Pyomo, IPOPT, Bash, LaTeX.
 
-## Honors and Awards 
+## Honors, Certificates, and Awards 
+- **Getting Published: Effectively Communicating Your Research**, Springer Nature Masterclass, August 2025.
 - **McKinsey.org Forward Program Participant Badge**, McKinsey & Company, July 2025.
 - **Graduate Coaching Hours Leader Certificate**, Activate Engineering Communication program at Rice University, May 2025.
 - **Outstanding Poster Award**, SIAM TX-LA conference, Oct 2024.
@@ -165,6 +173,7 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 - **Top 16 National Exams**, Lebanese Baccalaureate General Sciences National Exams, July 2019.
 
 ## Teaching 
+- **Calculus with Analytic Geometry II**, Teaching Assistant, Arizona State University, Fall 2025.
 - **Computational Science**, Grader, Rice University, Fall 2024.
 - **Iterative Methods and Unconstrained Optimization (Qualifying Exam Course)**, Grader, Rice University, Spring 2024.
 - **Advanced Numerical Analysis (Qualifying Exam Course)**, Grader, Rice University, Fall 2023.
@@ -176,6 +185,7 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 - **High School Mathematics**, Coordinator and Tutor, MMKN Organization, Sept 2019 - June 2021.
 
 ## Leadership and Service
+- **Startup Mentor at LAU Spark**, [LAU Spark Incubator Program](https://innovate.lau.edu.lb/programs/), May - July 2025.
 - **Ignite Entrepreneurship Trek to Silicon Valley Participant**, [Rice Alliance Ignite Trek](https://alliance.rice.edu/ignite), March 12-15, 2025
 - **Engineering Communication Coach**, [Rice Activate Engineering Communication Program](https://engineering.rice.edu/activate/activate-coaches), Aug 2024 - May 2025.
 - **Mentor**, [Injaz Company Program](https://www.injaz-lebanon.org/activities/programs/companyprogram.html), June 2024 - Sept 2024.
