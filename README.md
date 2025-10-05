@@ -6,7 +6,7 @@
     <span style="font-size: 15px;">🖥️</span> I am passionate about applied mathematics, software engineering and high performance computing. Above all, I enjoy the excitement of tackling challenging scientific research problems. <br/><br/>
     <span style="font-size: 15px">📷</span> I recently got into photography and I enjoy adding captions to the pictures I take to bring them into perspective. Check out my page  <a href="https://www.instagram.com/captured_thoughtsandmemories/" target="_blank">here</a>. <br/><br/>
     <span style="font-size: 15px">👨‍💼</span> I am also interested in entrepreneurship. In fact, I cofounded a startup called <a href="https://www.instagram.com/stoodie.lb/" target="_blank">Stoodie</a> in September 2021, won Jury's choice award by Injaz Lebanon and several hackathons, and got funded by UNICEF Lebanon and the Kingdom of Netherlands. I also made it to national television in Lebanon. Check out my interview <a href="https://www.youtube.com/watch?v=7nYVsNGiFgs" target="_blank">here</a> at minute 12:20. 
-        <br><br>Website Last Updated: September 25, 2025.<br/>
+        <br><br>Website Last Updated: October 5, 2025.<br/>
     </p>    
 </body>     
 
@@ -127,6 +127,7 @@ Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
 </ul>
 
 ## Research Talks and Presentations
+-**Parameter estimation of neuron models using subset selection and dynamic optimization**, Talk at [Mathematical biology research seminar](https://math.asu.edu/node/10006) at Arizona State University, Oct 3, 2025.
 - **Exploring the intrinsic and extrinsic determinants of heterogeneity in a 𝜷-cell network**, Talk at University of California, San Diego, Aug 12, 2025.
 - **Confidence and Degeneracy in Parameter Estimation of Biophysical Neuron Models**, Poster Presentation at [Energy HPC 2025 Conference](https://www.energyhpc.rice.edu/), Feb 25-27, 2025.
 - **Parameter estimation of neuron models using subset selection and dynamic optimization**, Invited Talk at graduate research seminar organized by Mathematics Club at Lebanese American University, Feb 18, 2025.
