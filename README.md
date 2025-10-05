@@ -14,6 +14,14 @@
 <body> 
     <span style="font-size: 15px;">
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
+        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">September 3, 2025</p>
+    </div>
+    <span style="font-size: 0.9rem;"> I gave a talk entitled "Parameter Estimation of Neuron Models using Subset Selection and Dynamic Optimization" at the <a href="https://math.asu.edu/node/10006" target="_blank">Mathematical Biology Seminar</a> at Arizona State University.
+    </span>
+    <br/><br/>
+    </span>
+    <span style="font-size: 15px;">
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">August 12, 2025</p>
     </div>
     <span style="font-size: 0.9rem;"> I successfully finished the <a href="https://www.simula.no/education/courses-summer-schools/summer-school-computational-physiology" target="_blank">summer school in computational physiology</a> hosted by Simula research laboratory in Norway, University of Oslo, and University of California, San Diego where I had 2 weeks of formal lectures and project work in June in Oslo, Norway, followed by 1.5 weeks of workshops, and presentations in August at UCSD. I presented my work on parameter sensitivity analyses techniques in pancreatic beta-cell models to explore and reconstruct the intrinsic and extrinsic determinants of heterogeneity in a beta-cell network.
