@@ -127,7 +127,7 @@ Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
 </ul>
 
 ## Research Talks and Presentations
--**Parameter estimation of neuron models using subset selection and dynamic optimization**, Talk at [Mathematical biology research seminar](https://math.asu.edu/node/10006) at Arizona State University, Oct 3, 2025.
+- **Parameter estimation of neuron models using subset selection and dynamic optimization**, Talk at [Mathematical biology research seminar](https://math.asu.edu/node/10006) at Arizona State University, Oct 3, 2025.
 - **Exploring the intrinsic and extrinsic determinants of heterogeneity in a 𝜷-cell network**, Talk at University of California, San Diego, Aug 12, 2025.
 - **Confidence and Degeneracy in Parameter Estimation of Biophysical Neuron Models**, Poster Presentation at [Energy HPC 2025 Conference](https://www.energyhpc.rice.edu/), Feb 25-27, 2025.
 - **Parameter estimation of neuron models using subset selection and dynamic optimization**, Invited Talk at graduate research seminar organized by Mathematics Club at Lebanese American University, Feb 18, 2025.
