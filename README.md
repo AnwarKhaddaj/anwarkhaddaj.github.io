@@ -19,6 +19,7 @@
     <span style="font-size: 0.9rem;"> I successfully passed my Numerical PDEs comprehensive exam as part of the PhD program in applied mathematics at Arizona State University.
     </span>
     <br/><br/>
+    </span>
     <span style="font-size: 15px;">
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">January 15, 2025</p>
@@ -26,6 +27,7 @@
     <span style="font-size: 0.9rem;"> I am now volunteering as a co-managing director of the <a href="https://nucleate.org/" target="_blank">Nucleate</a> chapter in Arizona! Nucleate is the largest global community of bioinnovators empowering tomorrow's biotech leaders by educating today's academic trainees.
     </span>
     <br/><br/>
+    </span>
     <span style="font-size: 15px;">
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">October 26, 2025</p>
@@ -33,6 +35,7 @@
     <span style="font-size: 0.9rem;"> Our paper with Shane Browne, Woori Choi, Vira Kravets, and Andrew G. Edwards on <a href="https://www.biorxiv.org/content/10.1101/2025.10.26.684303v1" target="_blank"> "Exploring the intrinsic and extrinsic determinants of heterogeneity in a β-cell network"</a> is now on bioRxiv. 
     </span>
     <br/><br/>
+    </span>
     <span style="font-size: 15px;">
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">October 15, 2025</p>
@@ -40,6 +43,7 @@
     <span style="font-size: 0.9rem;"> I am volunteering as part of the partnerships leadership team at <a href="https://nucleate.org/" target="_blank">Nucleate</a> Arizona Chapter, a student-led non-profit organization that empowers the next generation of life science innovators and biotech leaders.
     </span>
     <br/><br/>
+    </span>
     <span style="font-size: 15px;">
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">October 3, 2025</p>
