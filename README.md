@@ -6,7 +6,7 @@
     <span style="font-size: 15px;">🖥️</span> I am passionate about applied mathematics, software engineering and high performance computing. Above all, I enjoy the excitement of tackling challenging scientific research problems. <br/><br/>
     <span style="font-size: 15px">📷</span> I recently got into photography and I enjoy adding captions to the pictures I take to bring them into perspective. Check out my page  <a href="https://www.instagram.com/captured_thoughtsandmemories/" target="_blank">here</a>. <br/><br/>
     <span style="font-size: 15px">👨‍💼</span> I am also interested in entrepreneurship. In fact, I cofounded a startup called <a href="https://www.instagram.com/stoodie.lb/" target="_blank">Stoodie</a> in September 2021, won Jury's choice award by Injaz Lebanon and several hackathons, and got funded by UNICEF Lebanon and the Kingdom of Netherlands. I also made it to national television in Lebanon. Check out my interview <a href="https://www.youtube.com/watch?v=7nYVsNGiFgs" target="_blank">here</a> at minute 12:20. 
-        <br><br>Website Last Updated: October 5, 2025.<br/>
+        <br><br>Website Last Updated: January 28, 2026.<br/>
     </p>    
 </body>     
 
@@ -22,7 +22,7 @@
     </span>
     <span style="font-size: 15px;">
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
-        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">January 15, 2025</p>
+        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">January 15, 2026</p>
     </div>
     <span style="font-size: 0.9rem;"> I am now volunteering as a co-managing director of the <a href="https://nucleate.org/" target="_blank">Nucleate</a> chapter in Arizona! Nucleate is the largest global community of bioinnovators empowering tomorrow's biotech leaders by educating today's academic trainees.
     </span>
@@ -228,6 +228,7 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 - **High School Mathematics**, Coordinator and Tutor, MMKN Organization, Sept 2019 - June 2021.
 
 ## Leadership and Service
+- **Co-Managing Director**, [Nucleate Arizona](https://nucleate.org/), January 2026 - Present.
 - **Startup Mentor at LAU Spark**, [LAU Spark Incubator Program](https://innovate.lau.edu.lb/programs/), May - July 2025.
 - **Ignite Entrepreneurship Trek to Silicon Valley Participant**, [Rice Alliance Ignite Trek](https://alliance.rice.edu/ignite), March 12-15, 2025
 - **Engineering Communication Coach**, [Rice Activate Engineering Communication Program](https://engineering.rice.edu/activate/activate-coaches), Aug 2024 - May 2025.
