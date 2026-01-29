@@ -23,7 +23,7 @@
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">January 15, 2025</p>
     </div>
-    <span style="font-size: 0.9rem;"> I am now volunteering as a Co-managing director of the <a href="https://nucleate.org/" target="_blank">Nucleate</a> chapter in Arizona! Nucleate is the largest global community of bioinnovators empowering tomorrow's biotech leaders by educating today's academic trainees.
+    <span style="font-size: 0.9rem;"> I am now volunteering as a co-managing director of the <a href="https://nucleate.org/" target="_blank">Nucleate</a> chapter in Arizona! Nucleate is the largest global community of bioinnovators empowering tomorrow's biotech leaders by educating today's academic trainees.
     </span>
     <br/><br/>
     <span style="font-size: 15px;">
