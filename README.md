@@ -6,9 +6,12 @@
     <span style="font-size: 15px;">🖥️</span> I am passionate about applied mathematics, software engineering and high performance computing. Above all, I enjoy the excitement of tackling challenging scientific research problems. <br/><br/>
     <span style="font-size: 15px">📷</span> I recently got into photography and I enjoy adding captions to the pictures I take to bring them into perspective. Check out my page  <a href="https://www.instagram.com/captured_thoughtsandmemories/" target="_blank">here</a>. <br/><br/>
     <span style="font-size: 15px">👨‍💼</span> I am also interested in entrepreneurship. In fact, I cofounded a startup called <a href="https://www.instagram.com/stoodie.lb/" target="_blank">Stoodie</a> in September 2021, won Jury's choice award by Injaz Lebanon and several hackathons, and got funded by UNICEF Lebanon and the Kingdom of Netherlands. I also made it to national television in Lebanon. Check out my interview <a href="https://www.youtube.com/watch?v=7nYVsNGiFgs" target="_blank">here</a> at minute 12:20. 
-        <br><br>Website Last Updated: January 28, 2026.<br/>
+        <br><br>Website Last Updated: February 21, 2026.<br/>
     </p>    
 </body>     
+
+## Contact: [Email](mailto:anwar.khaddage@gmail.com) | [Linkedin](https://www.linkedin.com/in/anwarkhaddaj/)
+Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
 
 ## Recent News
 <body> 
@@ -136,9 +139,6 @@
     <br/><br/>
     </span>
 </body> 
-
-## Contact: [Email](mailto:anwar.khaddage@gmail.com) | [Linkedin](https://www.linkedin.com/in/anwarkhaddaj/)
-Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
 
 ## Education
 <ul style="list-style-type: disc; margin-left: 20px; padding-left: 0;">
