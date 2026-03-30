@@ -6,7 +6,7 @@
     <span style="font-size: 15px;">🖥️</span> I am passionate about applied mathematics, software engineering and high performance computing. Above all, I enjoy the excitement of tackling challenging scientific research problems. <br/><br/>
     <span style="font-size: 15px">📷</span> I recently got into photography and I enjoy adding captions to the pictures I take to bring them into perspective. Check out my page  <a href="https://www.instagram.com/captured_thoughtsandmemories/" target="_blank">here</a>. <br/><br/>
     <span style="font-size: 15px">👨‍💼</span> I am also interested in entrepreneurship. In fact, I cofounded a startup called <a href="https://www.instagram.com/stoodie.lb/" target="_blank">Stoodie</a> in September 2021, won Jury's choice award by Injaz Lebanon and several hackathons, and got funded by UNICEF Lebanon and the Kingdom of Netherlands. I also made it to national television in Lebanon. Check out my interview <a href="https://www.youtube.com/watch?v=7nYVsNGiFgs" target="_blank">here</a> at minute 12:20. 
-        <br><br>Website Last Updated: February 21, 2026.<br/>
+        <br><br>Website Last Updated: March 30, 2026.<br/>
     </p>    
 </body>     
 
@@ -15,6 +15,15 @@ Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
 
 ## Recent News
 <body> 
+    <span style="font-size: 15px;">
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
+        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">March 25, 2026</p>
+    </div>
+    <span style="font-size: 0.9rem;"> I presented the paper "Efficient collocational approach for parametric uncertainty analysis” by Dongbin Xiu in reading group
+        <a href="https://math.asu.edu/node/10921" target="_blank">AMPD UP (Applied Math Presentations & Discourse for Understanding Papers)</a>.
+    </span>
+    <br/><br/>
+    </span>
     <span style="font-size: 15px;">
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">January 26, 2026</p>
