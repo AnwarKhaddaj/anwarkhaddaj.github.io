@@ -25,6 +25,22 @@ Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
     </span>
     <span style="font-size: 15px;">
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
+        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">July 7, 2026</p>
+    </div>
+    <span style="font-size: 0.9rem;"> I gave a talk entitled "On Applying a Collocational Approach to Inverse Problems in Electrical Impedance Tomography" and co-organized a minisymposium on "Inverse Problems and Applications: Ideas from Early-career Researchers" at the 2026 SIAM Annual Meeting. 
+    </span>
+    <br/><br/>
+    </span>
+    <span style="font-size: 15px;">
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
+        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">July 6, 2026</p>
+    </div>
+    <span style="font-size: 0.9rem;"> Our paper with Shane Browne, Woori Choi, Vira Kravets, and Andrew G. Edwards on <a href="https://books.google.com/books?hl=en&lr=&id=hxLyEQAAQBAJ&oi=fnd&pg=PA59&ots=rcvGwcIvZf&sig=DXRZWhWfmFgLzqRouQr0G-SYlfA#v=onepage&q&f=false" target="_blank"> "Exploring the intrinsic and extrinsic determinants of heterogeneity in a β-cell network"</a> is published in Springer Nature.  
+    </span>
+    <br/><br/>
+    </span>
+    <span style="font-size: 15px;">
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">May 22, 2026</p>
     </div>
     <span style="font-size: 0.9rem;"> I successfully passed my Optimization comprehensive exam as part of the PhD program in applied mathematics at Arizona State University. With that, I have passed all my qualifying and comprehensive exams for my PhD.
@@ -53,14 +69,6 @@ Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">January 15, 2026</p>
     </div>
     <span style="font-size: 0.9rem;"> I am now volunteering as a co-managing director of the <a href="https://nucleate.org/" target="_blank">Nucleate</a> chapter in Arizona! Nucleate is the largest global community of bioinnovators empowering tomorrow's biotech leaders by educating today's academic trainees.
-    </span>
-    <br/><br/>
-    </span>
-    <span style="font-size: 15px;">
-    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
-        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">October 26, 2025</p>
-    </div>
-    <span style="font-size: 0.9rem;"> Our paper with Shane Browne, Woori Choi, Vira Kravets, and Andrew G. Edwards on <a href="https://www.biorxiv.org/content/10.1101/2025.10.26.684303v1" target="_blank"> "Exploring the intrinsic and extrinsic determinants of heterogeneity in a β-cell network"</a> is now on bioRxiv. 
     </span>
     <br/><br/>
     </span>
