@@ -192,6 +192,7 @@ Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
 </ul>
 
 ## Research Talks and Presentations
+- **On Applying a Collocational Approach to Inverse Problems in Electrical Impedance Tomography**, Talk at [SIAM Annual Meeting](https://meetings.siam.org/program.cfm?CONFCODE=AN26), July 7, 2026.
 - **Parameter estimation of neuron models using subset selection and dynamic optimization**, Talk at [Mathematical biology research seminar](https://math.asu.edu/node/10006) at Arizona State University, Oct 3, 2025.
 - **Exploring the intrinsic and extrinsic determinants of heterogeneity in a 𝜷-cell network**, Talk at University of California, San Diego, Aug 12, 2025.
 - **Confidence and Degeneracy in Parameter Estimation of Biophysical Neuron Models**, Poster Presentation at [Energy HPC 2025 Conference](https://www.energyhpc.rice.edu/), Feb 25-27, 2025.
@@ -203,6 +204,9 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 - **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [SIAM TX-LA 2023 Conference](https://userweb.ucs.louisiana.edu/~C00424602/SIAMTXLA2023/minisymposia.html), Nov 3-5, 2023.
 - **An All-At-Once Approach to Parameter Estimation in Neuron Models**, Poster Presentation at [Research Training Group in
 Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://drive.google.com/file/d/1kb-_YnmzEHVHXzucAvJq6HyDOL_5TAVg/view), Oct 13, 2023.
+
+## Minisymposium Organization
+- **Inverse Problems and Applications: Ideas from Early-career Researchers** at the SIAM Annual Meeting 2026 with Allison Fuller and Rafael Ceja Ayala.
 
 ## Other Talks and Presentations
 - [**Efficient Collocational Approach for Parametric Uncertainty Analysis**](https://math.asu.edu/node/10921), Paper presentation at reading group AMPED UP.
