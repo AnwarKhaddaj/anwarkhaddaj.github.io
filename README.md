@@ -250,6 +250,7 @@ Numerical Mathematics & Scientific Computing (NASC) Annual Workshop](https://dri
 - **Top 16 National Exams**, Lebanese Baccalaureate General Sciences National Exams, July 2019.
 
 ## Teaching 
+- **Differential Equations I (Qualifying Exam Course)**, Teaching Assistant, Arizona State University, Fall 2026.
 - **Calculus with Analytic Geometry II**, Teaching Assistant, Arizona State University, Fall 2025.
 - **Computational Science**, Grader, Rice University, Fall 2024.
 - **Iterative Methods and Unconstrained Optimization (Qualifying Exam Course)**, Grader, Rice University, Spring 2024.
