@@ -17,6 +17,15 @@ Check out my CV [here](Anwar_Khaddaj_Academic_CV.pdf).
 <body> 
     <span style="font-size: 15px;">
     <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
+        <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">September 10, 2026</p>
+    </div>
+    <span style="font-size: 0.9rem;"> I won <a href="https://www.linkedin.com/posts/malena-espanol-50641a2_appliedmath-ugcPost-7503975206785396736-L2qZ/" target="_blank">Falling Walls Lab Arizona</a>, a pitch competition where participants are given 3 minutes to present a breakthrough idea. I will be going to <a href="https://falling-walls.com/lab" target="_blank">Falling Walls Lab Global Finale</a> in Berlin, Germany this November.
+    </span>
+    <br/><br/>
+    </span>
+    
+    <span style="font-size: 15px;">
+    <div class="floating-block" style="background-color: #1E6FA8; color: #f5f5f5; padding: 5px 10px; border-radius: 10px; display: inline-block; margin: 5px; width: 125px; text-align: center;">
         <p style="margin: 0; font-size: 0.75rem; line-height: 1.2;">May 22, 2026</p>
     </div>
     <span style="font-size: 0.9rem;"> I successfully passed my Optimization comprehensive exam as part of the PhD program in applied mathematics at Arizona State University. With that, I have passed all my qualifying and comprehensive exams for my PhD.
